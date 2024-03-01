@@ -1,1 +1,1 @@
-export const rootUrl = "https://digiapexdeal.onrender.com";
+export const rootUrl = "https://api.digiapexdeal.in";
