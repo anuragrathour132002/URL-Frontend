@@ -12,17 +12,6 @@
  * Released under the MIT License
  */
 
-/*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
- */
-
-/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
-/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
-
 /**
  * @license React
  * react-dom.production.min.js
@@ -94,7 +83,7 @@
  */
 
 /**
- * @remix-run/router v1.5.0
+ * @remix-run/router v1.15.2
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -105,7 +94,7 @@
  */
 
 /**
- * React Router DOM v6.10.0
+ * React Router DOM v6.22.2
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -116,7 +105,7 @@
  */
 
 /**
- * React Router v6.10.0
+ * React Router v6.22.2
  *
  * Copyright (c) Remix Software Inc.
  *
